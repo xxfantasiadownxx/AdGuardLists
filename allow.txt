@@ -1,0 +1,35 @@
+# Amazon CDN stuff #
+@@||m.media-amazon.com^$important
+@@||unagi-na.amazon.com^$important
+@@||us-east-1.prod.service.minerva.devices.a2z.com
+
+# Acquisitions #
+@@||dht.transmissionbt.com^$important
+@@||dht.libtorrent.org^$important
+@@||router.bittorrent.com^$important
+@@||tracker.opentracker.org^$important
+@@||tracker.open-internet.nl^$important
+@@||tracker.leechers-paradise.org^$important
+@@||tracker.coppersurfer.tk^$important
+@@||tracker.baravik.org^$important
+@@||retracker.telecom.by^$important
+
+# Google Required Stuff #
+@@||footprints-pa.googleapis.com^$important
+@@||www.google.com^$important
+
+# Miscellaneous #
+@@||cdn.contentful.com^$important
+@@||download.sysdig.com^$important
+@@||lb57.xxip9.top^$important
+@@||raw.githubusercontent.com^&important
+@@||crossroadshagerstown.updates.church^$important
+
+# Social Media #
+@@||graph.instagram.com^$important
+@@||ft.fbcdntv247.cfd^$important
+
+# IOT Devices #
+@@||tccprod02.honeywell.com^$important
+@@||tccprod01.honeywell.com^$important
+@@||tccprod03.honeywell.com^$important
