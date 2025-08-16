@@ -7,6 +7,8 @@
 ||eu.mqtt.wiz.world^$important
 ||aladns.net^$important
 ||navigation.sr.roku.com^$important
+||carambo.la^$important
+||admaster.cc^$important
 
 # Amazon AWS and CDN stuff
 ||aax-us-east-retail-direct.iad.amazon.com^$important
