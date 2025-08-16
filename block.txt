@@ -1,6 +1,6 @@
 # Miscellaneous #
 ||merino.services.mozilla.com^$important
-||www.baidu.com^$important
+||baidu.com^$important
 ||link.adtidy.org^$important
 ||example.org^$important
 ||ipv4only.arpa^$important
@@ -19,6 +19,7 @@
 ||2mdn.net^&important
 ||casalemedia.com^&important
 ||quantcount.com^&important
+||anyclip.com^&important
 
 # Amazon AWS and CDN stuff
 ||aax-us-east-retail-direct.iad.amazon.com^$important
