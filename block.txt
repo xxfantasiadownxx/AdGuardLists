@@ -17,7 +17,8 @@
 ||tpc.googlesyndication.com^&important
 ||static.smoads.com^&important
 ||2mdn.net^&important
-||casalemedia.com
+||casalemedia.com^&important
+||quantcount.com^&important
 
 # Amazon AWS and CDN stuff
 ||aax-us-east-retail-direct.iad.amazon.com^$important
