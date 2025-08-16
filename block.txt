@@ -13,6 +13,7 @@
 ||btloader.com^&important
 ||safeframe.googlesyndication.com^&important
 ||googlesyndication.com^$important
+||pagead2.googlesyndication.com^&important
 
 # Amazon AWS and CDN stuff
 ||aax-us-east-retail-direct.iad.amazon.com^$important
