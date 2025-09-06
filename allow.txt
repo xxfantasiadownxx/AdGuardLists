@@ -25,6 +25,13 @@
 @@||raw.githubusercontent.com^&important
 @@||crossroadshagerstown.updates.church^$important
 @@||cvtv.cvalley.net
+@@||fl1.moveonjoy.com
+@@||fl2.moveonjoy.com
+@@||fl3.moveonjoy.com
+@@||fl4.moveonjoy.com
+@@||fl5.moveonjoy.com
+@@||fl6.moveonjoy.com
+@@||fl7.moveonjoy.com
 
 # Social Media #
 @@||graph.instagram.com^$important
