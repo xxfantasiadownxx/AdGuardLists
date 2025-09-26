@@ -34,6 +34,7 @@
 @@||fl7.moveonjoy.com^$important
 @@||amarillo.sb.roku.com^$important
 @@||eu.mqtt.wiz.world^$important
+@@||api.roku.com^$important
 
 # Social Media #
 @@||graph.instagram.com^$important
