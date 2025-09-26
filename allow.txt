@@ -24,14 +24,16 @@
 @@||lb57.xxip9.top^$important
 @@||raw.githubusercontent.com^&important
 @@||crossroadshagerstown.updates.church^$important
-@@||cvtv.cvalley.net
-@@||fl1.moveonjoy.com
-@@||fl2.moveonjoy.com
-@@||fl3.moveonjoy.com
-@@||fl4.moveonjoy.com
-@@||fl5.moveonjoy.com
-@@||fl6.moveonjoy.com
-@@||fl7.moveonjoy.com
+@@||cvtv.cvalley.net^$important
+@@||fl1.moveonjoy.com^$important
+@@||fl2.moveonjoy.com^$important
+@@||fl3.moveonjoy.com^$important
+@@||fl4.moveonjoy.com^$important
+@@||fl5.moveonjoy.com^$important
+@@||fl6.moveonjoy.com^$important
+@@||fl7.moveonjoy.com^$important
+@@||amarillo.sb.roku.com^$important
+@@||eu.mqtt.wiz.world^$important
 
 # Social Media #
 @@||graph.instagram.com^$important
