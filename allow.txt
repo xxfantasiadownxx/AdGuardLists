@@ -35,7 +35,6 @@
 @@||fl8.moveonjoy.com^$important
 @@||fl9.moveonjoy.com^$important
 @@||fl10.moveonjoy.com^$important
-@@||amarillo.sb.roku.com^$important
 @@||eu.mqtt.wiz.world^$important
 @@||api.roku.com^$important
 
