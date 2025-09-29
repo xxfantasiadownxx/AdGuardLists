@@ -62,3 +62,4 @@
 ||wwwimg.roku.com^$important
 ||retail.rpay.roku.com^$important
 ||display.ravm.tv^$important
+||mediaservices.cdn-apple.com^$important
