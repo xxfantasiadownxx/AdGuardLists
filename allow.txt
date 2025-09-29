@@ -36,7 +36,6 @@
 @@||fl9.moveonjoy.com^$important
 @@||fl10.moveonjoy.com^$important
 @@||eu.mqtt.wiz.world^$important
-@@||api.roku.com^$important
 
 # Social Media #
 @@||graph.instagram.com^$important
