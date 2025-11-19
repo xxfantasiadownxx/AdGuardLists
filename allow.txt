@@ -22,8 +22,9 @@
 @@||cdn.contentful.com^$important
 @@||download.sysdig.com^$important
 @@||lb57.xxip9.top^$important
-@@||raw.githubusercontent.com^&important
+@@||raw.githubusercontent.com^$important
 @@||crossroadshagerstown.updates.church^$important
+@@||lake pointe.church^$important
 @@||cvtv.cvalley.net^$important
 @@||fl1.moveonjoy.com^$important
 @@||fl2.moveonjoy.com^$important
