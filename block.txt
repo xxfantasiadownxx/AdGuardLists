@@ -20,6 +20,10 @@
 ||casalemedia.com^&important
 ||quantcount.com^&important
 ||anyclip.com^&important
+||adclick.g.doubleclick.net^&important
+||pagead.googlesyndication.com^&important
+||pagead1.googlesyndication.com^&important
+||googleadservices.com^&important
 
 # Amazon AWS and CDN stuff
 ||aax-us-east-retail-direct.iad.amazon.com^$important
