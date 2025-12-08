@@ -67,3 +67,14 @@
 ||retail.rpay.roku.com^$important
 ||display.ravm.tv^$important
 ||mediaservices.cdn-apple.com^$important
+||p.ads.roku.com^$important
+||identity.ads.roku.com^$important
+||customer-feedbacks.web.roku.com^$important
+||samples.voice.cti.roku.com^$important
+||scribe.logs.roku.com^$important
+||cloudservices.roku.com^$important
+||amoeba-plus.web.roku.com^$important
+||scribe.logs.roku.com^$important
+||cooper.logs.roku.com^$important
+||austin.logs.roku.com^$important
+||ads.roku.com^$important
