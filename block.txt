@@ -6,7 +6,6 @@
 ||ipv4only.arpa^$important
 ||eu.mqtt.wiz.world^$important
 ||aladns.net^$important
-||navigation.sr.roku.com^$important
 ||media.carambo.la^$important
 ||carambo.la^$important
 ||admaster.cc^$important
@@ -54,7 +53,6 @@
 # Roku Ads #
 ||ls.cti.roku.com^$important
 ||themes-service.sr.roku.com^$important
-||microsites.sr.roku.com^$important
 ||api.rpay.roku.com^$important
 ||content.sr.roku.com^$important
 ||api2.sr.roku.com^$important
@@ -71,8 +69,6 @@
 ||identity.ads.roku.com^$important
 ||customer-feedbacks.web.roku.com^$important
 ||samples.voice.cti.roku.com^$important
-||scribe.logs.roku.com^$important
-||cloudservices.roku.com^$important
 ||amoeba-plus.web.roku.com^$important
 ||scribe.logs.roku.com^$important
 ||cooper.logs.roku.com^$important
