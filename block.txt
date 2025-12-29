@@ -74,3 +74,6 @@
 ||cooper.logs.roku.com^$important
 ||austin.logs.roku.com^$important
 ||ads.roku.com^$important
+||navigation.sr.roku.com^$important
+||microsites.sr.roku.com^$important
+||cloudservices.roku.com^$important
