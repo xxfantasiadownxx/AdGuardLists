@@ -77,3 +77,5 @@
 ||navigation.sr.roku.com^$important
 ||microsites.sr.roku.com^$important
 ||cloudservices.roku.com^$important
+||api.roku.com^$important
+||mediaservices.cdn-apple.com^$important
