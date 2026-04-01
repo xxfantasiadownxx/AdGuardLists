@@ -26,16 +26,9 @@
 @@||crossroadshagerstown.updates.church^$important
 @@||lake pointe.church^$important
 @@||cvtv.cvalley.net^$important
-@@||fl1.moveonjoy.com^$important
-@@||fl2.moveonjoy.com^$important
-@@||fl3.moveonjoy.com^$important
-@@||fl4.moveonjoy.com^$important
-@@||fl5.moveonjoy.com^$important
-@@||fl6.moveonjoy.com^$important
-@@||fl7.moveonjoy.com^$important
-@@||fl8.moveonjoy.com^$important
-@@||fl9.moveonjoy.com^$important
-@@||fl10.moveonjoy.com^$important
+@@||realiptv.to^$important
+@@||restream-live.realiptv.to^$important
+@@||restream-live.realiptv.to:443^$important
 @@||eu.mqtt.wiz.world^$important
 @@||yummytoddlerfood.com^$important
 # Social Media #
