@@ -1,3 +1,17 @@
+# Ads Analytics Trackers #
+||analyticsengine.s3.amazonaws.com^$important
+||analytics.s3.amazonaws.com^$important
+||click.googleanalytics.com^$important
+||freshmarketer.com^$important
+||claritybt.freshmarketer.com^$important
+||fwtracks.freshmarketer.com^$important
+||app.getsentry.com^$important
+
+# Amazon AWS and CDN stuff
+||aax-us-east-retail-direct.iad.amazon.com^$important
+||appx.transient.amazon.com^$important
+||api-v2-prod-pub-817176607.us-east-1.elb.amazonaws.com^$important
+
 # Miscellaneous #
 ||merino.services.mozilla.com^$important
 ||baidu.com^$important
@@ -23,11 +37,33 @@
 ||pagead.googlesyndication.com^&important
 ||pagead1.googlesyndication.com^&important
 ||googleadservices.com^&important
+||geo.yahoo.com^$important
+||udcm.yahoo.com^$important
+||analytics.query.yahoo.com^$important
+||log.fc.yahoo.com^$important
+||gemini.yahoo.com^$important
+||appmetrica.yandex.ru^$important
+||adfstat.yandex.ru^$important
+||metrika.yandex.ru^$important
 
-# Amazon AWS and CDN stuff
-||aax-us-east-retail-direct.iad.amazon.com^$important
-||appx.transient.amazon.com^$important
-||api-v2-prod-pub-817176607.us-east-1.elb.amazonaws.com^$important
+# OEM Tracking #
+||iot-eu-logser.realme.com^$important
+||iot-logser.realme.com^$important
+||bdapi-in-ads.realmemobile.com^$important
+||data.mistat.india.xiaomi.com^$important
+||data.mistat.rus.xiaomi.com^$important
+||tracking.rus.miui.com^$important
+||metrics2.data.hicloud.com^$important
+||grs.hicloud.com^$important
+||logservice.hicloud.com^$important
+||logbak.hicloud.com^$important
+||smetrics.samsung.com^$important
+||metrics.icloud.com^$important
+||metrics.mzstatic.com^$important
+||api-adservices.apple.com^$important
+||books-analytics-events.apple.com^$important
+||weather-analytics-events.apple.com^$important
+||notes-analytics-events.apple.com^$important
 
 # Plex Stuff #
 ||vod.provider.plex.tv^$important
@@ -63,3 +99,11 @@
 ||api.roku.com^$important
 ||mediaservices.cdn-apple.com^$important
 ||images.sr.roku.com^$important
+
+# Social #
+||ads.pinterest.com^$important
+||log.pinterest.com^$important
+||trk.pinterest.com^$important
+||ads.youtube.com^$important
+||events.redditmedia.com^$important
+||log.byteoversea.com^$important
