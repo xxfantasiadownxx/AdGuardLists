@@ -31,7 +31,6 @@
 
 # Roku Ads #
 ||ls.cti.roku.com^$important
-||themes-service.sr.roku.com^$important
 ||api.rpay.roku.com^$important
 ||content.sr.roku.com^$important
 ||api2.sr.roku.com^$important
@@ -58,3 +57,4 @@
 ||cloudservices.roku.com^$important
 ||api.roku.com^$important
 ||mediaservices.cdn-apple.com^$important
+||images.sr.roku.com^$important
