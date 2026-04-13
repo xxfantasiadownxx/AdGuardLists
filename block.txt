@@ -29,6 +29,11 @@
 ||appx.transient.amazon.com^$important
 ||api-v2-prod-pub-817176607.us-east-1.elb.amazonaws.com^$important
 
+# Plex Stuff #
+||vod.provider.plex.tv^$important
+||analytics.plex.tv^$important
+||metrics.plex.tv^$important
+
 # Roku Ads #
 ||ls.cti.roku.com^$important
 ||api.rpay.roku.com^$important
