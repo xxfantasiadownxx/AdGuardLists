@@ -38,6 +38,7 @@
 ||pagead1.googlesyndication.com^&important
 ||googleadservices.com^&important
 ||geo.yahoo.com^$important
+||udc.yahoo.com^$important
 ||udcm.yahoo.com^$important
 ||analytics.query.yahoo.com^$important
 ||log.fc.yahoo.com^$important
