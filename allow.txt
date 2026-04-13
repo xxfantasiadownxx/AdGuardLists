@@ -31,6 +31,18 @@
 @@||restream-live.realiptv.to:443^$important
 @@||eu.mqtt.wiz.world^$important
 @@||yummytoddlerfood.com^$important
+@@||my.manychat.com^$client='192.168.0.192'
+@@||my.manychat.com^$client='192.168.0.175'
+@@||sdk.iad-05.braze.com^$important
+@@||Lakepointe.church^$important
+@@||zombie.duolingo.com^$important
+@@||sapphire-api.target.com^$important
+@@||img9.target.com^$important
+@@||vanced.to^$important
+
+# Plex #
+@@||clients.plex.tv^$important
+@@||metadata.provider.plex.tv^$important
 # Social Media #
 @@||graph.instagram.com^$important
 @@||ft.fbcdntv247.cfd^$important
