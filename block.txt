@@ -29,27 +29,6 @@
 ||appx.transient.amazon.com^$important
 ||api-v2-prod-pub-817176607.us-east-1.elb.amazonaws.com^$important
 
-# Foscam Stuff #
-||iv-access-eu.myfoscam.com^$important
-||p2p-cpt1.myfoscam.com^$important
-||p2p-sgp1.myfoscam.com^$important
-||p2p-sgp2.myfoscam.com^$important
-||p2p-foreign1.myfoscam.com^$important
-||p2p-foreign2.myfoscam.com^$important
-||p2p-foreign3.myfoscam.com^$important
-||p2p-foreign4.myfoscam.com^$important
-||p2p-foreign5.myfoscam.com^$important
-||ts-foreign31.myfoscam.com^$important
-||ts-foreign35.myfoscam.com^$important
-||log.myfoscam.com^$important
-||push-fep.myfoscam.com^$important
-||rekognition.myfoscam.com^$important
-||security-iv-access-eu.myfoscam.com^$important
-||ts-foreign36.myfoscam.com^$important
-||p2p-cpt2.myfoscam.com^$important
-||push-access.myfoscam.com^$important
-||richmedia.myfoscam.com^$important
-
 # Roku Ads #
 ||ls.cti.roku.com^$important
 ||themes-service.sr.roku.com^$important
