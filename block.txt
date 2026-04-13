@@ -1,13 +1,12 @@
 # Ads Analytics Trackers #
 ||analyticsengine.s3.amazonaws.com^$important
-||analytics.s3.amazonaws.com^$important
-||click.googleanalytics.com^$important
 ||freshmarketer.com^$important
 ||claritybt.freshmarketer.com^$important
 ||fwtracks.freshmarketer.com^$important
 ||app.getsentry.com^$important
 
 # Amazon AWS and CDN stuff
+||analytics.s3.amazonaws.com^$important
 ||aax-us-east-retail-direct.iad.amazon.com^$important
 ||appx.transient.amazon.com^$important
 ||api-v2-prod-pub-817176607.us-east-1.elb.amazonaws.com^$important
@@ -46,6 +45,7 @@
 ||smetrics.samsung.com^$important
 ||metrics.icloud.com^$important
 ||metrics.mzstatic.com^$important
+||advertising.apple.com^$important
 ||api-adservices.apple.com^$important
 ||books-analytics-events.apple.com^$important
 ||weather-analytics-events.apple.com^$important
@@ -101,6 +101,8 @@
 ||analytics.query.yahoo.com^$important
 ||log.fc.yahoo.com^$important
 ||gemini.yahoo.com^$important
+||webview.unityads.unity3d.com^$important
+||advertising.yandex.ru^$important
 ||appmetrica.yandex.ru^$important
 ||adfstat.yandex.ru^$important
 ||metrika.yandex.ru^$important
