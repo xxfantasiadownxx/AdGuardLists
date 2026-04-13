@@ -105,6 +105,8 @@
 ||ads.pinterest.com^$important
 ||log.pinterest.com^$important
 ||trk.pinterest.com^$important
+||analytics.pinterest.com^$important
+||widgets.pinterest.com^$important
 ||ads.youtube.com^$important
 ||events.redditmedia.com^$important
 ||log.byteoversea.com^$important
