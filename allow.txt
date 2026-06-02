@@ -13,6 +13,7 @@
 @@||tracker.coppersurfer.tk^$important
 @@||tracker.baravik.org^$important
 @@||retracker.telecom.by^$important
+@@||epgshare01.online^$important
 
 # Google Required Stuff #
 @@||footprints-pa.googleapis.com^$important
