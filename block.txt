@@ -83,7 +83,6 @@
 ||cloudservices.roku.com^$important
 ||api.roku.com^$important
 ||mediaservices.cdn-apple.com^$important
-||images.sr.roku.com^$important
 
 # Search Engines #
 ||click.googleanalytics.com^$important
