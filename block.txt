@@ -60,7 +60,6 @@
 ||ls.cti.roku.com^$important
 ||api.rpay.roku.com^$important
 ||content.sr.roku.com^$important
-||api2.sr.roku.com^$important
 ||rsp.web.roku.com^$important
 ||hints.voice.roku.com^$important
 ||lat-services.api.data.roku.com^$important
